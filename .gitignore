@@ -1,0 +1,10 @@
+.DS_Store
+.vscode
+Thumbs.db
+.idea
+.devcontainer
+.mypy_cache
+.vscode-server
+.local
+.cache
+.pre-commit-config.yaml
